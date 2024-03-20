@@ -1,0 +1,10 @@
+uvicorn
+gunicorn
+fastapi
+pydantic
+streamlit
+scikit-learn
+pandas
+requests
+nltk
+Sastrawi
